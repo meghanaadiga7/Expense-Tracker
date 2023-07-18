@@ -4,10 +4,9 @@
 This is a web application built using the JS front-end library ReactJS. It keeps track of expenses each month and displays a chart depicting the same. There is no backend code, therefore the data is not persistent.
 
 # Screenshots
+<img width="1440" alt="Screenshot 2023-07-18 at 10 33 44 AM" src="https://github.com/meghanaadiga7/Expense-Tracker/assets/106051990/25a8a089-40de-4f3e-a95f-46e548749731">
 
-<img width="1440" alt="Screenshot 2023-07-18 at 10 33 44 AM" src="https://github.com/meghanaadiga7/Expense-Tracker/assets/106051990/a9415c13-f4e0-40ae-9b7b-21f4d5edfc18">
-
-<img width="1440" alt="Screenshot 2023-07-18 at 10 34 21 AM" src="https://github.com/meghanaadiga7/Expense-Tracker/assets/106051990/f6b77aaa-fe55-4760-a1eb-ea81f8bc9e5f">
+<img width="1440" alt="Screenshot 2023-07-18 at 10 34 21 AM" src="https://github.com/meghanaadiga7/Expense-Tracker/assets/106051990/67eddad7-2cd6-4968-9a37-1fee5dcf4802">
 
 # Folder Structure
 This template follows a very simple project structure:
